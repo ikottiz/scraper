@@ -96,7 +96,8 @@ curl -X POST "http://localhost:8000/scrape" \
         "https://www.google.com/maps/place/Eiffel+Tower/@48.8583701,2.2944813,17z/data=!4m6!3m5!1s0x47e66e2964e34e2d:0x8ddca9ee380ef7e0!8m2!3d48.8583701!4d2.2944813!16zL20vMDI3ZHI?entry=ttu"
       ],
       "max_reviews": 50
-    }'```
+    }'
+```
 
 ### Response Payload
 
